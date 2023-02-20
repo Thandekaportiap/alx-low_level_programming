@@ -2,7 +2,7 @@
 
 /**
  * main - prints 0 to 9
- * return: always 0
+ * Return: always 0
  */
 int main(void)
 {
