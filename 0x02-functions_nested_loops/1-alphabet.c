@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * prints_alphabets - prints in lower case
- * Return: viod
+ * prints_alphabets  prints in lower case
+ * Return: void
  */
 
 void  prints_alphabets(void)
