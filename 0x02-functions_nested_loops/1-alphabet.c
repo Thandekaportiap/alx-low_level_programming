@@ -5,7 +5,7 @@
  * Return: viod
  */
 
-void print_alphabet(void)
+void  prints_alphabets(void)
 
 {
 
