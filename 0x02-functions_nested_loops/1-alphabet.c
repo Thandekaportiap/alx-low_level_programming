@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * prints alphabets in lower case
+ * prints_alphabets - prints in lower case
  * Return: viod
  */
 
