@@ -1,9 +1,8 @@
-#include <stdio.h>
+#include <stdio>
 
-/**
- * prints_alphabets  prints in lower case
- * Return: void
- */
+
+prints_alphabets  prints in lower case
+Return: void
 
 void  prints_alphabets(void)
 
